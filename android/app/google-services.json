@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1096964387358",
+    "project_id": "n3mobile-a9fb3",
+    "storage_bucket": "n3mobile-a9fb3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1096964387358:android:899d693215dc6aeec6340f",
+        "android_client_info": {
+          "package_name": "com.example.todolist"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4EEWwnU745Dan-a5hPHm3FAMY8qRM0mY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
